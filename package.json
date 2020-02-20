@@ -1,0 +1,12 @@
+{
+  "name": "httperrorstring",
+  "version": "1.0.0",
+  "scripts": {
+    "test": "elm-test"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "elm-test": "^0.19.1-revision2"
+  }
+}
